@@ -1,2 +1,2 @@
-# Colin
-Colin's game for 3D game design
+# Collin
+Collin's game for 3D game design
